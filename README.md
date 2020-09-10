@@ -19,6 +19,19 @@ I consider how I approach work as engagement. I will seek tasks -
 * That improves a process, decision  
 * That provides a path forward 
 
+### My Job
+As a Leader, I'm measured by:
+* Meeting expectations of my title and job description
+* Mentoring and Coaching those I work with to make them better (career growth)
+* Enact principles that build on a "yes” mindset 
+* Facilitating the ideas of DevOps and Site Reliability Engineering
+* Setting clear context for others to be successful
+* Identifying whats best for Cars Inc. and whats best for my teams
+* Recruiting quality engineers and leaders that further the mission to make cars the best place to work. 
+
+I believe my primary mandate in this role is to serve those on my team, including my peers and leadership, not the other way around.  I provide air cover, perspective, experience and constraints that better equip engineers to do their job. 
+
+
 
 
 
