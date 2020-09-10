@@ -4,7 +4,7 @@ This document is an intro to the way I work, my psychological and operational fr
 
 ### Bill Winslow
 
-This is my **README.md**. I struggle writing '*I*' and '*me*' as many times as I do in this file. Writing in the first person at length is uncomfortable as I prefer pronouns like '*us*' and '*we*'. I tend not to use the word '*feel*'. I prefer words like '*perceive*', '*relative*' and '*reality*' instead. It's kind of quirky but you deserve to know this about me.
+This is my **README.md**. I struggle writing '*I*' and '*me*' as many times as I do in this file. Writing in the first person is uncomfortable as I prefer pronouns like '*us*' and '*we*'. I tend not to use the word '*feel*' and choose words like '*perceive*', '*relative*' and '*reality*' instead. It's kind of quirky but you deserve to know this about me.
 
 ### Communication
 
