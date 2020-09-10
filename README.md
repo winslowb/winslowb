@@ -1,4 +1,4 @@
-## Introduction
+# Introduction
 
 Your health and well being is the most important thing in the world. I will always index on this fact.
 
