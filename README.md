@@ -15,9 +15,9 @@ I respect your time and effort to read my communications. While writing I prefer
 I want you to work autonomously. I'm here to help, provide instruction and direction as needed, but I expect you to build that muscle as we continue our journey together. 
 
 I consider how I approach work as engagement. I will seek tasks - 
-\* That I'm accountable for 
-\* That improves a process, decision  
-\* That provides a path forward 
+* That I'm accountable for 
+* That improves a process, decision  
+* That provides a path forward 
 
 
 
