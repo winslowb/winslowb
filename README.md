@@ -37,11 +37,13 @@ Principals are universal truths that we create *values* from.
 * Career is a reflection of self 
 * Self is more important than career 
 * A tunned body and mind **first** serves *youself* and **then** serves others
+ 
 
 #### Values
 * Always allow your leadership style to reflect who you are
 * Strive to be a better person, then you'll be a better leader
 * Seeking balance is a worth journey
+* Lean into the hard stuff 
 
 
 
