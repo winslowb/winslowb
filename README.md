@@ -8,29 +8,40 @@ I struggle writing '*I*' and '*me*' as many times as I do in this file. Writing 
 
 ### Communication
 
-I cherish different perspectives, thoughts and approaches. When we engage each other, I will prioritize listening over speaking. 
-I respect your time and effort to read my communications. While writing I prefer efficiency and simplicity and choose a declarative style of writing out of this respect. When possible, I limit using words when numbers are more appropriate. When using slack, I'm less formal. I'm aware of the disruptive nature of instant messaging and don't expect immediate responses. I'll use words like '*ping me when you get a sec*'. If there is urgency I'll use the appropriate adjectives.  
+I cherish different perspectives, thoughts and approaches. When we engage each other, I will prioritize listening over speaking.
+
+I respect your time and effort to read my communications. While writing I prefer efficiency and simplicity and choose a declarative style of writing out of this respect. When possible, I limit using words when numbers are more appropriate. When using slack, I'm less formal. I'm aware of the disruptive nature of instant messaging and don't expect immediate responses. I'll use words like '*ping me when you get a sec*'. If there is urgency I'll use the appropriate adjectives.
 
 ### Engagement
-I want you to work autonomously. I'm here to help, provide instruction and direction as needed, but I expect you to build that muscle as we continue our journey together. 
+I want you to work autonomously. I'm here to help, provide instruction and direction as needed, but I expect you to build that muscle as we continue our journey together.
 
-I consider how I approach work as engagement. I will seek tasks - 
-* That I'm accountable for 
-* That improves a process, decision  
-* That provides a path forward 
+I consider how I approach work as engagement. I will seek tasks -
+* That I'm accountable for
+* That improves a process, decision
+* That provides a path forward
 
 ### My Job
 As a Leader, I'm measured by:
 * Meeting expectations of my title and job description
 * Mentoring and Coaching those I work with to make them better (career growth)
-* Enact principles that build on a "yes” mindset 
+* Enact principles that build on a "yes” mindset
 * Facilitating the ideas of DevOps and Site Reliability Engineering
 * Setting clear context for others to be successful
 * Identifying whats best for Cars Inc. and whats best for my teams
-* Recruiting quality engineers and leaders that further the mission to make cars the best place to work. 
+* Recruiting quality engineers and leaders that further the mission to make cars the best place to work.
 
-I believe my primary mandate in this role is to serve those on my team, including my peers and leadership, not the other way around.  I provide air cover, perspective, experience and constraints that better equip engineers to do their job. 
+I believe my primary mandate in this role is to serve those on my team, including my peers and leadership, not the other way around.  I provide air cover, perspective, experience and constraints that better equip engineers to do their job.
 
+### Principals, Universal Truths
+Principals are universal truths that we create *values* from. 
+* Career is a reflection of self 
+* Self is more important than career 
+* A tunned body and mind **first** serves *youself* and **then** serves others
+
+#### Values
+* Always allow your leadership style to reflect who you are
+* Strive to be a better person, then you'll be a better leader
+* Seeking balance is a worth journey
 
 
 
