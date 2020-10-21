@@ -1,4 +1,4 @@
-![alt text](https://github.com/winslowb/winslowb/blob/master/winslow.jpg? =150x50) 
+![alt text](https://github.com/winslowb/winslowb/blob/master/winslow.jpg =150x150)
 
 
 # Introduction
