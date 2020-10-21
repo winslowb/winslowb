@@ -1,6 +1,3 @@
-![alt text](https://github.com/winslowb/winslowb/blob/master/winslow.jpg?raw=true | width="150" height="100" /) 
-
-
 # Introduction
 
 Your health and well being is the most important thing in the world. I will always index on this fact.
