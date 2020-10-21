@@ -30,12 +30,3 @@ As a Leader, I'm measured by:
 * Recruiting quality engineers and leaders that further the mission to make cars the best place to work.
 
 I believe my primary mandate in this role is to serve those on my team, including my peers and leadership, not the other way around.  I provide air cover, perspective, experience and constraints that better equip engineers to do their job.
-
- 
-
-
-
-
-
-
-
