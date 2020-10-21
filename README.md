@@ -1,4 +1,4 @@
-![alt text](https://github.com/winslowb/winslowb/blob/master/winslow.jpg?raw=true | width=100 ) 
+![alt text](https://github.com/winslowb/winslowb/blob/master/winslow.jpg?raw=true | width=100) 
 
 
 # Introduction
