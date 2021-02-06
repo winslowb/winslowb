@@ -19,6 +19,9 @@ I consider how I approach work as engagement. I will seek tasks -
 * That improves a process, decision
 * That provides a path forward
 
+### Alignment
+I seek alignment rather than consensus. Respectful descent is always welcome and I'm willing to let go and of my posistion and try something new. Once a group decision has been made, I back it %110.
+
 ### My Job
 As a Leader, I'm measured by:
 * Meeting expectations of my title and job description
