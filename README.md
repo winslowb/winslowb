@@ -1,6 +1,6 @@
 # Introduction
 
-Your health and well being is the most important thing in the world. I will always index on this fact.
+Your health, family and well being is the most important thing in the world. I will always index on this fact.
 
 This document is an intro to the way I work, my psychological and operational framework. It will be successful if it aids in building a better working relationship. I'm aware that all of our experiences predicate this moment and determines our leadership and engagement style.
  
