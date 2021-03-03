@@ -1,6 +1,6 @@
-                           #SUMMARY   
+                           #SUMMARY#   
 	
-                           ##My leadership principles are based on:
+                           #My leadership principles are based on:
                            * Communication
                            * Engagement
                            * Alignment
@@ -9,12 +9,12 @@
                            * Empathy of those who struggle
                            * Contributing to others success
 
-                           ## As a Leader, I'm measured by
-                           ***Meeting expectations of my title and job description**
-                           ***Mentoring and Coaching those I work with to make them better (career growth)**
-                           ***Enacting principles that build on a "yes” mindset**
-                           ***Setting clear context for others to be successful**
-                           ***Identifying what's best for the organization and my teams**
+                           # As a Leader, I'm measured by
+                           *Meeting expectations of my title and job description
+                           *Mentoring and Coaching those I work with to make them better (career growth)*
+                           *Enacting principles that build on a "yes” mindset*
+                           *Setting clear context for others to be successful*
+                           *Identifying what's best for the organization and my teams*
                              __________________________________________________________________________________________________________________________ 
                           # EXPERIENCE
                           ## Cars.com, Chicago, April 2014 - Present
