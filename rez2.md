@@ -1,4 +1,4 @@
-  ## SUMMARY   
+  # SUMMARY   
 	
   **My leadership principles are based on:**
   * Communication
@@ -18,6 +18,7 @@
   __________________________________________________________________________________________________________________________ 
   # EXPERIENCE
   **Cars.com, Chicago, April 2014 - Present**
+  
   *Director of Platform and Software Engineering (2020 - Present)*
   
   Leveraged and contributed to a cross functional leadership team seeking alignment amidst ambiguity, healthy/respectful conflict and complex technical/business challenges.  
