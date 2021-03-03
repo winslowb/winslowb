@@ -1,7 +1,8 @@
-# Introduction
+
+# [[Introduction]](https://github.com/winslowb/winslowb/blob/master/rez.md)
 
 <img src="https://github.com/winslowb/winslowb/blob/master/winslow.jpg" alt="hi, i'm bill" width="200" height="250">
-*^^I like running and biking.^^*
+^^ *I like running and biking* ^^
 
 Your health, family and well-being is the most important thing in the world. I will always index on this fact.
 
