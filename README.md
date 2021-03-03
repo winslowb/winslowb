@@ -1,5 +1,5 @@
 # Introduction
-> ![Screenshot](winslow.jpg)
+![](https://github.com/winslowb/winslowb/blob/master/winslow.jpg =250x250)
 
 Your health, family and well being is the most important thing in the world. I will always index on this fact.
 
