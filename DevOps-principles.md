@@ -4,36 +4,36 @@ Tags :infrastructure: :cicd: :devops: :leadership: :engineering:
 # Summary
 There are nine pillars to building and sustaining a DevOps value driven organization. The journey is not complete until all are part of the engineering practice. 
 
-# Leadership 
+## Leadership 
   Leaders set an inspiring DevOps directional vision for the organization, and proactively stimulate and sponsor team activities that help progress toward goals
 
-# Collaborative culture 
+## Collaborative culture 
   The organization encourages cross-functional collaboration, shared responsibilities and works to reduce restrictive boundaries between organizational functions.
 
-# Design for DevOps
+## Design for DevOps
   Products are architected to support service-oriented, modular, independent packaging, testing and releases, in accordance with the principles of twelve-factor apps.
 
-# Continuous integration 
+## Continuous integration 
   Changes to software code and artifacts needed for releases are frequently merged, built, tested and packaged into executable artifacts for application releases.
 
-# Continuous testing 
+## Continuous testing 
   Software tests that are most important to verify the results of pipeline stages including pre-flight, integration, regression, performance and release acceptance tests are automated as much as possible.
 
-# Elastic infrastructure 
+## Elastic infrastructure 
   Infrastructure-as-a-service (IaaS) resources (i.e., software, computing machines, storage and networks) are integrated into a tool chain for automating builds and testing environments to efficiently support variable workload demands.
 
-# Continuous monitoring 
+## Continuous monitoring 
   Applications, pipeline tools and infrastructure components are instrumented with metrics, and the collected data is analyzed to manage health and performance.
 
-# Continuous security (DevSecOps) 
+## Continuous security (DevSecOps) 
   Security practices, processes and technologies for applications, databases, pipelines and infrastructures are integrated into the culture and pipelines to assure security.
 
-# Continuous delivery 
+## Continuous delivery 
   Release artifacts are validated, prepared for deployment to production and may be automatically deployed to production once acceptable deployment measures are achieved.
   ____________________________________
   
 # But wait, there's more 
-  As the DevOps framework is being implemented, continue to defin following principles. As the organization evolves, these principles will be important to the functions of the practice. 
+  As the DevOps framework is being implemented, continue to define following principles. As the organization evolves, these principles will be important to the functions of the practice. 
 
   **Version management systems** – Every stage in the end-to-end DevOps value stream depends on keeping track of versions of software source code, configuration data and executable images using source code management systems, artifact repositories and configuration management systems.
 
@@ -45,7 +45,7 @@ There are nine pillars to building and sustaining a DevOps value driven organiza
 
   **Value stream management** – A deployed service, composed of multiple application microservices and data services, requires orchestration and analysis of a federated set of services, end-to-end, across the value stream from planning through to operations.
 
-# Management Practices
+# Management and Administrative Practices
   DevOps Service Management practices include four Pipeline sub practices practices:
 
   **Service catalogs** – Organized collections of software stacks, tools and pre-configured pipelines, made available through portals, enable DevOps-as-a-Service operations and simplify access, configuration, control and evolution of DevOps resources needed by enterprise application teams.
@@ -64,9 +64,9 @@ There are nine pillars to building and sustaining a DevOps value driven organiza
 
   **Model Applications** – that serve as a model for greater enterprise adoption – are selected and monitored according to criterion that spotlight the value of DevOps for other applications.
 
- **Return on investment** (ROI) – DevOps investments must compete with other IT projects for resources. An ROI model that demonstrates measurable cost savings is an approach that has proved to achieve greater numbers of DevOps project approvals compared to other methods.
+  **Return on investment** (ROI) – DevOps investments must compete with other IT projects for resources. An ROI model that demonstrates measurable cost savings is an approach that has proved to achieve greater numbers of DevOps project approvals compared to other methods.
 
- **Continuous improvement** – Competitive forces and industry trends require that DevOps solutions continue to evolve to keep up with enterprise requirements.
+  **Continuous improvement** – Competitive forces and industry trends require that DevOps solutions continue to evolve to keep up with enterprise requirements.
 
 # The Human Element
   Qualities of a DevOps Engineering
