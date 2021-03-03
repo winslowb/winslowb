@@ -18,7 +18,7 @@
   * Identifying what's best for the organization and my teams
   __________________________________________________________________________________________________________________________ 
   # EXPERIENCE
-  **Cars.com, Chicago, April 2014 - Present**
+  ## Cars.com, Chicago, April 2014 - Present
   
   **Director of Platform and Software Engineering (2020 - Present)**
   
