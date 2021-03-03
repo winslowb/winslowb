@@ -10,10 +10,10 @@ There are nine pillars to building and sustaining a DevOps value driven organiza
 ### 3. Design for DevOps
   Products are architected to support service-oriented, modular, independent packaging, testing and releases, in accordance with the principles of twelve-factor apps.
 
-### 4 Continuous integration 
+### 4. Continuous integration 
   Changes to software code and artifacts needed for releases are frequently merged, built, tested and packaged into executable artifacts for application releases.
 
-### 5.Continuous testing 
+### 5. Continuous testing 
   Software tests that are most important to verify the results of pipeline stages including pre-flight, integration, regression, performance and release acceptance tests are automated as much as possible.
 
 ### 6. Elastic infrastructure 
