@@ -1,31 +1,31 @@
 ## Summary
 There are nine pillars to building and sustaining a DevOps value driven organization. The journey is not complete until all are part of the engineering practice. 
 
-### Leadership 
+### 1. Leadership 
   Leaders set an inspiring DevOps directional vision for the organization, and proactively stimulate and sponsor team activities that help progress toward goals
 
-### Collaborative culture 
+### 2. Collaborative culture 
   The organization encourages cross-functional collaboration, shared responsibilities and works to reduce restrictive boundaries between organizational functions.
 
-### Design for DevOps
+### 3. Design for DevOps
   Products are architected to support service-oriented, modular, independent packaging, testing and releases, in accordance with the principles of twelve-factor apps.
 
-### Continuous integration 
+### 4 Continuous integration 
   Changes to software code and artifacts needed for releases are frequently merged, built, tested and packaged into executable artifacts for application releases.
 
-### Continuous testing 
+### 5.Continuous testing 
   Software tests that are most important to verify the results of pipeline stages including pre-flight, integration, regression, performance and release acceptance tests are automated as much as possible.
 
-### Elastic infrastructure 
+### 6. Elastic infrastructure 
   Infrastructure-as-a-service (IaaS) resources (i.e., software, computing machines, storage and networks) are integrated into a tool chain for automating builds and testing environments to efficiently support variable workload demands.
 
-### Continuous monitoring 
+### 7. Continuous monitoring 
   Applications, pipeline tools and infrastructure components are instrumented with metrics, and the collected data is analyzed to manage health and performance.
 
-### Continuous security (DevSecOps) 
+### 8. Continuous security (DevSecOps) 
   Security practices, processes and technologies for applications, databases, pipelines and infrastructures are integrated into the culture and pipelines to assure security.
 
-### Continuous delivery 
+### 9. Continuous delivery 
   Release artifacts are validated, prepared for deployment to production and may be automatically deployed to production once acceptable deployment measures are achieved.
   ____________________________________
   
