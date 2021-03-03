@@ -16,9 +16,8 @@
   * Setting clear context for others to be successful
   * Identifying what's best for the organization and my teams
   __________________________________________________________________________________________________________________________ 
-  ## EXPERIENCE
+  # EXPERIENCE
   **Cars.com, Chicago, April 2014 - Present**
-  
   *Director of Platform and Software Engineering (2020 - Present)*
   
   Leveraged and contributed to a cross functional leadership team seeking alignment amidst ambiguity, healthy/respectful conflict and complex technical/business challenges.  
