@@ -4,7 +4,7 @@
   * Communication
   * Engagement
   * Alignment
-  * My leadership values include:
+  **My leadership values include:**
   * The health and well being of others
   * Empathy of those who struggle
   * Contributing to others success
