@@ -24,7 +24,7 @@
   
   Leveraged and contributed to a cross functional leadership team seeking alignment amidst ambiguity, healthy/respectful conflict and complex technical/business challenges.  
 
-  Informed by DevOps Principles and value systems, lead a mixture of software and infrastructure engineering managers building Elixir/Phoenix web framework on AWS PaaS. Other core backend services included inventory, search and data/ photo ingestion as well as an editorial content platform. Teams built a workflow toolchain consisting of a hosted mono repository, continuous integration/deployment, application performance monitoring and logging facility supporting a Service Level Framework. 
+  Informed by DevOps principles and value systems, lead a mixture of software and infrastructure engineering managers building Elixir/Phoenix web framework on AWS PaaS. Other core backend services included inventory, search and data/ photo ingestion as well as an editorial content platform. Teams built a workflow toolchain consisting of a hosted mono repository, continuous integration/deployment, application performance monitoring and logging facility supporting a Service Level Framework. 
  
   **Director of Platform Engineering (2017 - Present)**
  
