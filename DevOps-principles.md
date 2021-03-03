@@ -2,7 +2,7 @@
 Tags :infrastructure: :cicd: :devops: :leadership: :engineering:
 
 # Summary
-There is nine core pillars to building and sustaining a DevOps value driven organization. The journey is not complete until all are part of the engineering practice. 
+There are nine pillars to building and sustaining a DevOps value driven organization. The journey is not complete until all are part of the engineering practice. 
 
 # Leadership 
   Leaders set an inspiring DevOps directional vision for the organization, and proactively stimulate and sponsor team activities that help progress toward goals
