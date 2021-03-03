@@ -19,13 +19,13 @@
   # EXPERIENCE
   **Cars.com, Chicago, April 2014 - Present**
   
-  *Director of Platform and Software Engineering (2020 - Present)*
+  **Director of Platform and Software Engineering (2020 - Present)**
   
   Leveraged and contributed to a cross functional leadership team seeking alignment amidst ambiguity, healthy/respectful conflict and complex technical/business challenges.  
 
   Informed by DevOps Principles and value systems, lead a mixture of software and infrastructure engineering managers building Elixir/Phoenix web framework on AWS PaaS. Other core backend services included inventory, search and data/ photo ingestion as well as an editorial content platform. Teams built a workflow toolchain consisting of a hosted mono repository, continuous integration/deployment, application performance monitoring and logging facility supporting a Service Level Framework. 
  
-  *Director of Platform Engineering (2017 - Present)*
+  **Director of Platform Engineering (2017 - Present)**
  
   Lead an organization of six teams (20+ engineers and managers). Focus on strategy and growth of cars.com technology and operations. Responsible for a budget, technology roadmap as well as the growth of individuals and their teams.
 
