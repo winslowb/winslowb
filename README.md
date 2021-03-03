@@ -1,6 +1,6 @@
 # Introduction
 
-<img src="https://github.com/winslowb/winslowb/blob/master/winslow.jpg" alt="hi, i'm bill" width="250" height="250">
+<img src="https://github.com/winslowb/winslowb/blob/master/winslow.jpg" alt="hi, i'm bill" width="200" height="250">
 
 Your health, family and well being is the most important thing in the world. I will always index on this fact.
 
