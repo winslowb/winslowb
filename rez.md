@@ -1,6 +1,6 @@
-                           # SUMMARY   
+                           #SUMMARY   
 	
-                           ## My leadership principles are based on:
+                           ##My leadership principles are based on:
                            * Communication
                            * Engagement
                            * Alignment
