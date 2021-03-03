@@ -66,7 +66,7 @@ There are nine pillars to building and sustaining a DevOps value driven organiza
   **Continuous improvement** – Competitive forces and industry trends require that DevOps solutions continue to evolve to keep up with enterprise requirements.
 
 ### The Human Element
-  Qualities of a DevOps Engineering
+  Qualities of a DevOps Engineer
 
   **DevOps engineering** – The development of DevOps engineer roles, skills and the structure of DevOps engineering within an organization is critical to the success of designing, building, maintaining and evolving DevOps solutions.
 
