@@ -8,7 +8,8 @@ is not complete until all are part of the engineering practice.
 
 ### 2. Collaborative culture
   The organization encourages cross-functional collaboration, shared responsibilities and works to
-  reduce blockers between organizational. This includes establishing or reinforcing business stakeholder relationships.
+  reduce blockers between organizational. This includes establishing or reinforcing business
+  stakeholder relationships.
 
 
 ### 3. Design for DevOps
