@@ -13,7 +13,8 @@ demonstrates the performance and health of SLA
 SLO - performance goals of each SLI supporting the SLAdefining threshold (rate of failure/success) of individual monitors and service supporting the SLA
 alerting rules that support the SLA
 
- **-Service Level** | **-Agreement**          | **-Identifier**         | **-Objective**
+
+**-Service Level**  **-Agreement**           **-Identifier**          **-Objective** 
  Design/Product     | Responsible/Accountable | Consulted/Informed      | Informed
  Engineering        | Consulted/Informed      | Responsible/Accountable | Responsible/Accountable
 
