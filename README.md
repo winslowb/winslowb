@@ -1,5 +1,5 @@
 
-# [Introduction](https://github.com/winslowb/winslowb/blob/master/rez2.md)
+# [Introduction](https://github.com/winslowb/winslowb/blob/master/rez.md)
 
 
  
