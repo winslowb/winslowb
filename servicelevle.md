@@ -11,10 +11,9 @@ SLI - creation of metrics/telemetry supporting requirements in the SLA
 demonstrates the performance and health of SLA
 SLO - performance goals of each SLI supporting the SLAdefining threshold (rate of failure/success) of individual monitors and service supporting the SLA
 alerting rules that support the SLA
-| Service Level  | - Agreement              | - Identifier             | - Objective             |
-| =============  | ======================== | ======================== | ======================  |
-| Design/Product | Responsible/Accountable  | Consulted/Informed       | Informed                |
-| Engineering    | Consulted/Informed       | Responsible/Accountable  | Responsible/Accountable |
+| **Service Level** | **Agreement**           | **Identifier**          | **Objective**           |
+| Design/Product    | Responsible/Accountable | Consulted/Informed      | Informed                |
+| Engineering       | Consulted/Informed      | Responsible/Accountable | Responsible/Accountable |
 
 Service levels inform each other. If SLA's are the challenge, then it's met by the creation of SLI's and SLO's by engineering teams. SLI's are used by engineering teams to build observability, monitoring and alerting rules. From the SLI's, engineers create well defined and goal oriented SLO's.
 
