@@ -3,7 +3,7 @@
 
 <img src="https://github.com/winslowb/winslowb/blob/master/winslow.jpg" alt="hi, i'm bill" width="200" height="250">
 <img src="https://github.com/winlowb/winslowb/blob/master/skytree.png"
-alt="hi, i'm bill" width="2200" height="250">
+alt="hi, i'm bill" width="1200" height="250">
  *I like running and biking*
 
 ___________________________________________
