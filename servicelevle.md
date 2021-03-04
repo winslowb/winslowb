@@ -14,9 +14,9 @@ SLO - performance goals of each SLI supporting the SLAdefining threshold (rate o
 alerting rules that support the SLA
 
 
-**-Service Level**  **-Agreement**           **-Identifier**          **-Objective** 
- Design/Product     | Responsible/Accountable | Consulted/Informed      | Informed
- Engineering        | Consulted/Informed      | Responsible/Accountable | Responsible/Accountable
+| **-Service Level** | **-Agreement**          | **-Identifier**         | **-Objective**          |
+| Design/Product     | Responsible/Accountable | Consulted/Informed      | Informed                |
+| Engineering        | Consulted/Informed      | Responsible/Accountable | Responsible/Accountable |
 
 Service levels inform each other. If SLA's are the challenge, then it's met by the creation of SLI's
 and SLO's by engineering teams. SLI's are used by engineering teams to build observability 
