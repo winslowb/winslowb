@@ -1,7 +1,6 @@
 
 # [Introduction](https://github.com/winslowb/winslowb/blob/master/rez2.md)
 
-<img src="https://github.com/winslowb/winslowb/blob/master/winslow.jpg" alt="hi, i'm bill" width="200" height="250">
 
  
 
