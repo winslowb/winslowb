@@ -3,11 +3,9 @@
 
 <img src="https://github.com/winslowb/winslowb/blob/master/winslow.jpg" alt="hi, i'm bill" width="200" height="250">
 
-[![Header](https://github.com/winslowb/winslowb/blob/master/skytree.png "Header")]          
  
 
-alt="hi, i'm bill" width="1200" height="250">
- *I like running and biking*
+ My name is Bill, I like running and biking
 
 ___________________________________________
 ***best read in darkmode***
