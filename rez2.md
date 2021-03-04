@@ -34,7 +34,7 @@
 
   Lead a team of 5 Site Reliability Engineers responsible for continuous delivery, middleware administration, container services, automation, logging and monitoring. Software operations stack includes Jenkins, Git,  Docker, Hashicorp tools, AppDynamics and Splunk. Middleware stack includes OWCS, (WebLogic) Websphere and Apache/tomcat.
 
-  **Sr. Manager Of Cloud Engineering. (2015 - 2018)**
+  **Sr. Manager of Cloud Engineering. (2015 - 2018)**
  
   Lead a team of 6 Engineers responsible for support and management of Linux operating systems running on physical, virtual hypervisors and Amazon Web Services using Ansible configuration manager. Additional responsibilities for storage (SAN and backup), data center management. Responsible for a multimillion dollar budget that consists of both capital and operational expenditures. Software operations stack includes VMWare, Amazon Web Services, Terraform, Ansible and Nagios. Hardware infrastructure includes Cisco Unified Compute and Pure Storage. 
 
