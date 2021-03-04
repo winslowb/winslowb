@@ -35,7 +35,7 @@ As a Leader, I'm measured by:
 * Mentoring and Coaching others insuring their success
 * Setting clear expectations of others to be successful
 * Enact principles that build on a "yes” mindset
-* Facilitating the ideas of [[DevOps]](https://github.com/winslowb/winslowb/blob/master/DevOps-principles.md) 
+* Facilitating the ideas of [DevOps](https://github.com/winslowb/winslowb/blob/master/DevOps-principles.md) 
 * Identifying whats best for Cars Inc. and whats best for my teams
 * Recruiting quality engineers and leaders that further the mission to make cars the best place to work.
 
