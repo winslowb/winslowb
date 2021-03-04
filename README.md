@@ -2,7 +2,7 @@
 # [Introduction](https://github.com/winslowb/winslowb/blob/master/rez2.md)
 
 <img src="https://github.com/winslowb/winslowb/blob/master/winslow.jpg" alt="hi, i'm bill" width="200" height="250">
-- *I like running and biking* -
+*I like running and biking*
 
 ___________________________________________
 ***best read in darkmode***
