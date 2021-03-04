@@ -16,7 +16,7 @@ I struggle writing '*I*' and '*me*' as many times as I do in this file. Writing 
 ### Communication
 I cherish different perspectives, thoughts and approaches. When we engage each other, I will prioritize listening over speaking.
 
-I respect your time and effort to read my communications. [[While writing I prefer efficiency and simplicity]](https://medium.com/fact-of-the-day-1/amazon-writing-style-tip-a349b4bd3839) and choose a declarative style of writing out of this respect. When possible, I limit using words when numbers are more appropriate. When using slack, I'm less formal. I'm aware of the disruptive nature of instant messaging and don't expect immediate responses. I'll use words like '*ping me when you get a sec*'. If there is urgency I'll use the appropriate adjectives. 
+I respect your time and effort to read my communications. [While writing I prefer efficiency and simplicity](https://medium.com/fact-of-the-day-1/amazon-writing-style-tip-a349b4bd3839) and choose a declarative style of writing out of this respect. When possible, I limit using words when numbers are more appropriate. When using slack, I'm less formal. I'm aware of the disruptive nature of instant messaging and don't expect immediate responses. I'll use words like '*ping me when you get a sec*'. If there is urgency I'll use the appropriate adjectives. 
 
 ### Engagement
 I want you to work autonomously. I'm here to help, provide instruction and direction as needed, but I expect you to build that muscle as we continue our journey together. When it comes to communicating our priorities and objectives, I prefer the use of a RACI filter. We will always consult and inform each other and review what we are responsible and accountable for. 
