@@ -17,6 +17,6 @@ alerting rules that support the SLA
 | Engineering       | Consulted/Informed      | Responsible/Accountable | Responsible/Accountable |
 
 Service levels inform each other. If SLA's are the challenge, then it's met by the creation of SLI's
-and SLO's by engineering teams. SLI's are used by engineering teams to build observability
+and SLO's by engineering teams. SLI's are used by engineering teams to build observability 
 monitoring and alerting rules. From the SLI's, engineers create well defined and goal oriented SLO's.
 
