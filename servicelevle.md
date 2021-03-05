@@ -16,6 +16,11 @@ severity levels correlated with requirements
 **SLO** - performance goals of each SLI supporting the SLAdefining threshold (rate of failure/success)  of individual monitors and service supporting the SLA
 alerting rules that support the SLA
 
+| Service Level   | - Agreement               | - Indicator               | - Objective               |
+| --------------- | :-----------------------: | :-----------------------: | :-----------------------: |
+| Product/UX      | Responcible/Accountable   | Consulted/Informed        | Informed                  |
+| Engineering     | Informed                  | Responcable/Accountable   | Responcible/Accountable   |
+
 ### They Way
 
 Service levels inform each other. If SLA's are the challenge, then it's met by the creation of SLI's
