@@ -38,7 +38,8 @@ As a Leader, I'm measured by:
 * Setting clear expectations of others to be successful
 * Enact principles that build on a "yes” mindset
 * Facilitating the ideas of [DevOps](https://github.com/winslowb/winslowb/blob/master/DevOps-principles.md) 
-* Identifying whats best for Cars Inc. and whats best for my teams
-* Recruiting quality engineers and leaders that further the mission to make cars the best place to work.
+* Identifying whats best for the business and whats best for my teams
+* Recruiting quality engineers and leaders that further the mission of the buisness and to make it
+the best place to work in Chicago and the world.
 
 I believe my primary mandate in this role is to serve those on my team, including my peers and leadership, not the other way around.  I provide air cover, perspective, experience and constraints that better equip engineers to do their job.
