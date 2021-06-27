@@ -1,6 +1,6 @@
 ## Summary
 There are nine principles to building and sustaining a DevOps value driven organization. The journey
-is not complete until all are part of the engineering practice.
+is not complete until all of the following principles are part of the engineering practice.
 
 ### 1. Leadership
   Leaders align and execute these principals. Assure time and material is accounted for and provide
