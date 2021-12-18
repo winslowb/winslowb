@@ -7,7 +7,6 @@
  My name is Bill, I like running and biking
 
 ___________________________________________
-***best read in darkmode***
 
 Your health, family and well-being are essential. I will always index on this fact.
 
