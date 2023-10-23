@@ -1,16 +1,21 @@
-___
 @document.meta
 title: gpe-sync
 description: 
 authors: bill
-categories: GPE
-created: 2023-10-16T10:00:56-0600
-updated: 2023-10-20T10:05:22-0600
+categories: 
+created: 2023-10-23T11:16:22-0600
+updated: 2023-10-23T11:39:13-0600
 version: 1.1.1
 @end
 ___
 
 * GPE Sync
+** Monday, Oct 23 2023 
+	 - container stuff
+	 -- stop stuff from running as root
+	 -- some stuff about fuse side-car
+	 - ES7 update where jenkins is a blocker
+	 - ETL works all other qa/prod places		 - sync with peter, tube and metadata (not merging until jenkins issue are blocking)
 ** Tuesday, Oct 17 2023 
 	 - JQ is dark for the day working on his pitch
 	 - spent time talking about aws engagement
