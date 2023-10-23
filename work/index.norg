@@ -10,28 +10,15 @@ version: 1.1.1
 ___
 * Work Index
 **  Important notes
-   - {:$/access-key:}[Jira Story To Replace Access Keys]
-   - {:$/idp stuff:}[Title: Idp Stuff]
-   - {:$/journal/2023/10/19:}[Journal - Thursday, Oct 19 2023]
+		- {:$/access-key:}[Jira Story To Replace Access Keys]
+		- {:$/idp stuff:}[Title: Idp Stuff]
+		- {:$/2023 Q4 goals and objectives:}[2023 Q4 Goals And Objectives]
+		- {:$/idp stuff:}[Idp Stuff]
 
 **  Links
-	- {:journal/index:}[Journal]
-  - {:$/2023 Q4 goals and objectives:}[2023 Q4 Goals And Objectives]
-  - {:$/idp stuff:}[Idp Stuff]
-
-**  Syncs 1o1's{:$work/1o1/index:} 
-		- [Aidan]{:$work/1o1/ah:} 
-		- [Amy]{:$work/sync/a:} 
-		- [Ed]{:$work/1o1/ed:} 
-		- [Elyse]{:1o1/ec:} 
-		- [Jawad]{:$work/1o1/jq:} 
-		- [Peter]{:$work/sync/pv:} 
-
-**  Meetings
-	 - {:$/meetings/conmon meeting:}[Conmon Meeting]
-   - {:$/meetings/dd-sync:}[Datadog Sync]
-   - {:$/meetings/gpe-sync:}[Gpe Sync]
-   - {:$/meetings/meeting with Dan from AWS:}[Meeting With Dan]
+		- [{:$work/1o1/index:}[Syncs 1o1's]
+		- {:journal/index:}[Journal]
+		- {:$work/meetings/index:}[Meetings]
 
 **  Priorities
 	 - ( ) Compliance stuff
