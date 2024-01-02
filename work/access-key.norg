@@ -1,0 +1,48 @@
+@document.meta
+title: Access key role #2
+description: 
+authors: bill
+categories: compliance
+created: 2023-10-17T10:55:41-0600
+updated: 2023-10-20T11:13:00-0600
+version: 1.1.1
+@end
+___
+* Note  - Monday, Oct 20 2023  /Jira Story to replace access keys/
+The purpose of replacing keys, is to be fedramp compliant. The process of rolling the keys is intrusive and will create moments of gen3 platforms not being available. Below is a prposed schedule;
+
+| commons          | Date      | Time  |
+| ---------------- | -------   | ----- |
+| afamaccount      | 10/ /2023 |       |
+| anvil            | 10/ /2023 |       |
+| bdcat            | 10/ /2023 |       |
+| bionimbus        | 10/ /2023 |       |
+| brh              | 11/ /2023 |       |
+| brh-demo         | 11/ /2023 |       |
+| brh-workspace    | 11/ /2023 |       |
+| cdistest         | 11/ /2023 |       |
+| covid19          | 11/ /2023 |       |
+| csoc             | 11/ /2023 |       |
+| dcf-buckets      | 11/ /2023 |       |
+| dcf-openbuckets  | 11/ /2023 |       |
+| dcf-prod         | 11/ /2023 |       |
+| dcf-qa           | 11/ /2023 |       |
+| edc              | 11/ /2023 |       |
+| gdc              | 11/ /2023 |       |
+| gdc-test         | 11/ /2023 |       |
+| genomel          | 11/ /2023 |       |
+| heal             | 11/ /2023 |       |
+| heal-workspaces  | 11/ /2023 |       |
+| ibdgc            | 11/ /2023 |       |
+| jcoin            | 11/ /2023 |       |
+| kids-first-prod  | 11/ /2023 |       |
+| kids-first-stag  | 11/ /2023 |       |
+| midrc            | 11/ /2023 |       |
+| niaid            | 11/ /2023 |       |
+| occ              | 11/ /2023 |       |
+| unfunded         | 11/ /2023 |       |
+| va-datacommons   | 11/ /2023 |       |
+| vadc-finopp      | 10/ /2023 |       |
+| vadc-finopp      | 10/ /2023 |       |
+| vhdcperf         | 10/ /2023 |       |
+| vpodc            | 10/ /2023 |       |

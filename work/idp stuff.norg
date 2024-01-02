@@ -1,0 +1,33 @@
+@document.meta
+title: idp stuff
+description: 
+authors: bill
+categories: GPE
+created: 2023-10-19T12:10:55-0600
+updated: 2023-10-20T11:13:00-0600
+version: 1.1.1
+@end
+___
+* Note  - Friday, Oct 20 2023 /IDP stuff/
+*** Ed
+		remains skeptical based on our last sync (/ie no further discussion at this time, since we last talked/)
+*** Peter
+		As we talked more about this, it helped me develop a clearer understanding of what /i'm/ trying to accomplish 
+** Deeper thinking
+	 as it stands atm; we have a docustore (/docusourace/) to capture our helm/k8 information. it will provide more transparency about what is replacing cloud-automation repo. it will act as a docustore that that captures how to build and interact with a developer platform.
+	 
+	 The potential and how i invision it evovling was part of my discussion with Peter. Having both a docustore and a functional tool (AKA IDP) would make it more valuable. For developers and engineers that ability to spin up a platform that abstracts a lot of the hands on work today would really benefit the burden of developers operation and tracking of their developer environment. Today some of these environments extist with different purpose/functionality, and some of these are shared.
+
+** Objective
+	 [To build a tool that automaties ephemeral enviornments as well as provide /Platform/ documentation.]{https://medium.com/contino-engineering/creating-your-internal-developer-platform-part-2-65ff217cecd6}
+			
+			Internal Developer Portal is a centralized hub or platform within an organization that provides resources, tools, documentation, and guidelines to the organization's developers. It's essentially a /one-stop-shop/ for everything a developer within the organization might need to perform their job effectively.
+			_Key features_ of an Internal Developer Portal can include:
+				1. *API Documentation*: Detailed information about how to use the APIs provided by the organization, including endpoints, request/response examples, and error codes.
+				2. *SDKs and Libraries*: Access to Software Development Kits and libraries that developers can use to build applications.
+				3. *Code Samples and Tutorials*: Examples of code and step-by-step tutorials to help developers understand how to use the APIs, SDKs, and other tools.
+				4. *Community and Support*: Forums or chat rooms where developers can ask questions, share knowledge, and help each other. Also, it may include direct lines of communication to technical support teams.
+				5. *News and Updates*: Information about the latest updates, new features, bug fixes, and upcoming changes.
+				6. *Environment Access*: Information or direct access to different environments like development, testing, staging, and production.
+			The goal of an Internal Developer Portal is to improve developer experience, increase productivity, and promote best practices across the organization. It can be particularly useful in large organizations with many developers or in organizations that use a microservices architecture, where there might be many different APIs to work with.
+

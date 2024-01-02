@@ -1,0 +1,15 @@
+@document.meta
+title: 12
+description: 
+authors: bill
+categories: Journal
+created: 2023-10-19T17:39:22-0600
+updated: 2023-10-20T10:27:14-0600
+version: 1.1.1
+@end
+___
+
+* Journal - Thursday, Oct 12 2023 
+	- {:meeting with Dan from AWS:} -- blew me off
+	- {:conmon meeting:} -- worked on gpe-1133
+

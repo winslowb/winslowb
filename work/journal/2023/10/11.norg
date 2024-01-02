@@ -1,0 +1,16 @@
+@document.meta
+title: 11
+description: 
+authors: bill
+categories: Journal
+created: 2023-10-19T17:32:11-0600
+updated: 2023-10-20T10:27:10-0600
+version: 1.1.1
+@end
+___
+* Journal - Wednesday, Oct 11 2023 
+	- {:jq sync:}
+	- wasted the day on neorg and whichkey  bull shit
+** began working on rum scripts
+	- mostly working but get the wrong count for the markdown report
+  - another request for occ-70 - wanted to disable internet access to occ-longcovid bucket

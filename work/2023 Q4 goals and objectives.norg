@@ -1,0 +1,71 @@
+@document.meta
+title: 2023 Q4 goals and objectives
+description: 
+authors: bill
+categories: gpe ork
+created: 2023-10-18T17:57:11-0600
+updated: 2023-10-20T11:19:25-0600
+version: 1.1.1
+@end
+___
+* Note - /*2023 Q4 goals and objectives*/ Monday, Oct 16 2023  
+** Summary
+	The purpose of this doc is to establish goals and objective for 2023:Q4. This is not meant to replace the univeristies workday goals but instead ensure that the work we do is accounted for and impacting. 
+	Platform Engineering will establish and share it's quarterly goals on the {https://github.com/uc-cdis/cdis-wiki}[cdis wiki]
+	
+	[Jawad]{:$work/1o1/jq:} cobbled together some stuff as well
+
+	*** Quarter Four
+	**** October 13, 2023
+		 ~	*_Opex Costs_* - GPE will run a cost affective Platform that prevents linear scale of capacity and opex  
+		 ~~~ The Platform shall be easy to track costs and observe spending trends
+		 ~~~ The Platform shall be elastic and use only what is needed
+		 ~~~ The Platform shall use tooling that benefits both FinOps and BizOps
+		 ~	_*SRE/DevOps*_ - Engineering efforts that make Gen3 better
+		 ~~~	/SRE/ - The Platform shall be predictable and observable
+		 ~~~ /DevOps/ - Tools will serve the greater good, that make both Software and Platform Engineers lifes easier
+		 ~~~ The Platform shall be documented and understood
+		 ~ *_Security_* -  /There is work for audits scheduled in the fourth quarter/
+		 ~~~ The Platform shall meet all compliance requirements
+		 ~~~ The Platform shall be recoverable
+
+___
+	*** Quarter Three
+	**** August 21, 2023
+		 ~ *_Opex Costs_*  - /For calendar year 2023, up to this point, all platform engineering work has been completed. However, GPE will continue to evaluate solutions and workflows that can save on capx./
+		 ~ _*SRE/DevOps*_ - /CI work and DevOps tools share agency in q3/
+		 ~~~ Deploy argocd and jobs to production
+		 ~~~ Promote TF/HELM jobs that standup a commons to production
+		 ~ *_Security_* -  
+		 ~~~ iam keys
+		 ~~~ port scan
+___
+	*** Quarter Two
+	**** May 01, 2023
+		 ~ _*Opex Costs*_-  /GPE will  ensure The Platform is cheap to run, and capacity/cost increases will be linear/
+		 ~~~ Reduce Spend across all commons by 20% 
+		 ~ _*SRE/DevOps*_ - /The Platform will be predictable and resilient. GPE will build useful tools that reduce friction and makes The Platform easy to develop./
+		 ~~~ Establish process that make the platform resilient.
+		 ~~~ Make the platform observable
+		 ~~~ Build a better CI platform
+		 ~~~ Build the tools to address finOps practice for bizops
+		 ~~~ _*Security*_ - /The platform will be safe to operate and develop./
+		 ~~~ Keep up with POAM and other compliance requirements
+		 ~~~ Automation of repeatable tasks
+___
+*** Quarter One
+	**** January 13, 2023
+		 ~ *Operational Costs*_ - /GPE will  ensure The Platform is cheap to run, and capacity/cost increases will be linear/
+		 ~~~ Reduce operational cost by 20% in csoc, cdistest, and bionimbus
+		 ~~~ GPE will use capacity planning to address ec2 spend to right-size clusters
+		 ~~~ GPE will use a reaper to shut stuff down after business hours
+		 ~~~ DevOps - Impliment tooling for devs that make things easier
+		 ~~~ Deploy Argo with dev helm jobs
+		 ~ _*SRE/DevOps*_ - 
+		 ~~~ Cutover to GA
+		 ~~~ Complete Helm Charts
+		 ~ _*Security*_ - 
+		 ~~~ Ensure CI is secure
+		 ~~~ Compliance
+		 ~~~ all outstanding and newly discovered work to obtain ATO
+
