@@ -10,8 +10,8 @@ version: 1.1.1
 ___
 * Work Index
 **  Important notes
-		- {:$/access-key:}[Jira Story To Replace Access Keys]
-		- {:$/idp stuff:}[Title: Idp Stuff]
+		- {:$work/notes/access-key:}[Jira Story To Replace Access Keys]
+		- {:$work/notes/idp stuff:}[Title: Idp Stuff]
 
 		- {:$/2023 Q4 goals and objectives:}[2023 Q4 Goals And Objectives]
 		- {:$/idp stuff:}[Idp Stuff]
@@ -19,7 +19,8 @@ ___
 **  Links
 		- [{:$work/1o1/index:}[Syncs 1o1's]
 		- {:journal/index:}[Journal]
-		- {:$work/meetings/index:}[Meetings]
+		- {:$work/meetings/meetings_index:}[Meetings]
+		- {:$work/notes/notes_index:}[Notes]
 
 **  Priorities
 		- ( ) Jira Stuff
@@ -35,5 +36,7 @@ ___
 		-- ( ) Start noting my career objectives
 		-- ( ) Think closely about CDIS objectives
 
-** [Neorg modules and notes]{:neorg_modules:} 
+** [Neorg modules and notes]{:$work/notes/neorg_modules:} 
+
+
 
