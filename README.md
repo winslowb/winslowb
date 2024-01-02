@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # [Introduction](https://github.com/winslowb/winslowb/blob/master/rez.md)
 
@@ -41,3 +42,6 @@ As a Leader, I'm measured by:
 * Recruiting quality engineers and leaders that further the mission of the business and to make it the best place to work in the world.
 
 I believe my primary mandate in this role is to serve those on my team, including my peers and leadership, not the other way around.  I provide air cover, perspective, experience and constraints that better equip engineers to do their job.
+=======
+notes 
+>>>>>>> f75b386 (norg)
