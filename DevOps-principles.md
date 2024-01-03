@@ -3,7 +3,7 @@ There are nine principles to building and sustaining a modern value driven engin
 
 A practical definition of Platform Enginering would include the practices and philosophies of DevOps, SRE and SecOps. While DevOps has been misunderstood over the years, I believe that the fundamental aspect of this practice is to make the platform easy to develop against. A modern public cloud Platform Engineering landscape would look something like this;
 
-! [Alt text](Screenshot 2024-01-02 17.16.28.png)
+[Alt text](Screenshot 2024-01-02 17.16.28.png)
 +-----------------------------------+  +-----------------------------+  +------------------------+
 | Developer / Engineer Control Pane |  | Integration & Delivery      |  | Infrastructure Control |
 +-----------------------------------+  +-----------------------------+  +------------------------+
