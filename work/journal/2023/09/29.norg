@@ -1,0 +1,18 @@
+@document.meta
+title: 29
+description: 
+authors: bill
+categories: Journal
+created: 2023-09-28T10:07:48-0600
+updated: 2023-10-20T10:22:34-0600
+version: 1.1.1
+@end
+___
+* Journal - Friday, Sep 29 2023 
+****** i don't remeber that far back
+****** fucked around with whichkey.lua - looking better
+****** need to check on aws spend since adding the cloudtrail forwarder
+****** checkout the aws billing dashboard after updating the datadogintegration-FR
+****** [DD September Cadence meeting](DD_September_Cadence)
+****** [sync with clint](Sync/clint)
+     

@@ -1,0 +1,38 @@
+@document.meta
+title: 11
+description: 
+authors: bill
+categories: Journal
+created: 2023-10-20T09:45:11-0600
+updated: 2023-10-20T10:06:06-0600
+version: 1.1.1
+@end
+___
+* Journal Monday, Sept 11 2023 
+
+**** 09/21/2023
+****** missed sync with elise (i was late and she was working on something else)
+****** researched and wrote some stuff about lambda, secrets manager in [occ 70](occ-70)
+****** wrote some inventory scripts and delte scripts for dd integration
+****** SE mentioned he missed and would like dd apm (inspite of the requirments they shared)
+
+**** Friday, Sep 29 2023 
+****** i don't remeber that far back
+****** fucked around with whichkey.lua - looking better
+****** need to check on aws spend since adding the cloudtrail forwarder
+****** checkout the aws billing dashboard after updating the datadogintegration-FR
+****** [DD September Cadence meeting](DD_September_Cadence)
+****** [sync with clint](Sync/clint)
+     
+**** Thursday, Sep 28 2023 
+****** [secops meeting](conmon)
+****** finished up [dd forwarder stuff](dd_forwarder_status)
+****** was pinged by mf about [occ 70](occ-70), in that they have issues getting to the occ-longcovid s3 endpoint from workspace
+
+**** Monday Sept 25, 2023 
+****** [sync with ed and jawad](gpe sync)
+
+
+**** Wednesday 14 2023 
+****** worked on dumb [occ 70](occ-70) - i'm going to re-add the igw gateway to the policy again
+****** worked on stupid datadog - finished most of the fowarder stuff...about two left and a few to fix 

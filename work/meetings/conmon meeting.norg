@@ -1,0 +1,46 @@
+@document.meta
+title: conmon meeting
+description: 
+authors: bill
+categories: Meeting Compliance
+created: 2023-10-19T10:10:18-0600
+updated: 2023-10-20T10:22:35-0600
+version: 1.1.1
+@end
+___
+*  ConMon Meeting - Thursday, Oct 12 2023 
+	- was late because of a conflict
+	- work on gpe-1133 - remove vpn stuff
+
+								*Remove those access:*                                                                                              
+								| ------------------------ Description ------------------------ |
+
+								||||
+								| csoc         | i-0caaee846208bf617 | ctds-dev-vpn  |
+								| csoc         | i-0471ba74db284f564 | ctds-prod-vpn |
+								| Username     | Prod/Dev            |
+								| edward2      | Prod                |
+								| johnbright   | Prod                |
+								| qiong        | Prod                |
+								| atharvar     | Dev                 |
+								| gxyafgane    | Dev                 |
+								| gxyamahmou   | Dev                 |
+								| gxygoecks    | Dev                 |
+								| gxyvahid     | Dev                 |
+								| gxywalsbr    | Dev                 |
+								| marten       | Dev                 |
+								| mattreex     | Dev                 |
+								| michellechen | Dev                 |
+								| mjmartinson  | Dev                 |
+								| rarya        | Dev                 |
+								| sargent      | Dev                 |
+								| rendunn      | Dev                 |
+___
+* ConMon Meeting - Thursday, Oct 19 2023 
+	- follow up on gpe-901
+	- scheduling api/access key replacement
+	-- CM to update
+	-- CM to remove old stale iam and keys
+	- briefly discussed the updated NIS stuff (rev4 - rev5
+		- looking at threat modeling software that address suplly change risks
+		

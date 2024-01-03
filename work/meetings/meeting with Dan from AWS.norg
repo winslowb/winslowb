@@ -1,0 +1,23 @@
+___
+@document.meta
+title: meeting with Dan from AWS
+description: 
+authors: bill
+categories: Meeting Dan AWS
+created: 2023-10-19T17:24:52-0600
+updated: 2023-10-20T10:22:35-0600
+version: 1.1.1
+@end
+___
+
+* Thursday, Oct 12 2023 - Meeting with Dan
+	- need clarity on Fedramp compliance for aws load ballancers
+  /no worries. we were waiting on them to provide more info (from their Compliance team) on the outdated version of openssl-fips. OpenSSL 1.0.2k-fips which is marked historical and EOL.
+  the weakness, specifically
+  Amazon Linux 2 OpenSSL Crypto Module is a general purpose cryptographic library designed to provide FIPS 140-2 validated cryptographic functionality for the applications running on Amazon Linux 2.
+  Currently, the Amazon Linux 2 OpenSSL Cryptographic Module (Cert# 3553) has been assigned a “”historical”" status by the CMVP, and thus is End-of-Life (EOL).
+  Running yum update openssl for Linux 2 security advisories doesn’t update OpenSSL past version 1.0.2/
+	- dan blew me off
+	- {:$work/meetings/conmon meeting:}
+	
+
