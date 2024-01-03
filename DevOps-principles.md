@@ -3,24 +3,7 @@ There are nine principles to building and sustaining a modern value driven engin
 
 A practical definition of Platform Enginering would include the practices and philosophies of DevOps, SRE and SecOps. While DevOps has been misunderstood over the years, I believe that the fundamental aspect of this practice is to make the platform easy to develop against. A modern public cloud Platform Engineering landscape would look something like this;
 
-![healyt framework](shot.png)
-+-----------------------------------+  +-----------------------------+  +------------------------+
-| Developer / Engineer Control Pane |  | Integration & Delivery      |  | Infrastructure Control |
-+-----------------------------------+  +-----------------------------+  +------------------------+
-| IDE: Visual Studio                |  | CI Pipeline: Jenkins        |  | Tool: Terraform        |
-| IDP: Internal Dev Port            |  | Image Registry: Docker      |  |                        |
-| VCS: Git                          |  | Orchestratn: Kubernetes/Helm|  |                        |
-| App Src Code: GitHub              |  | CD Pipeline: ArgoCD         |  |                        |
-| Plat Src Code: GitHub             |  |                             |  |                        |
-+-----------------------------------+  +-----------------------------+  +------------------------+
-+--------------------------+  +------------------------+  +---------------------+
-| Monitoring & Logging     |  | Security Plane         |  | Resource Plane      |
-+--------------------------+  +------------------------+  +---------------------+
-| Observability: Prometheus|  | Service Mgmt: Keycloak |  | Compute: AWS EC2    |
-| Analytics: Grafana       |  | Security: Vault        |  | Data: Amazon RDS    |
-|                          |  |                        |  | Networking: VPC     |
-|                          |  |                        |  | Services: AWS S3    |
-+--------------------------+  +------------------------+  +---------------------+
+![healthy pe framework](shot.png)
 
 *The tools aren't as important as what the tools are used for*.
 
