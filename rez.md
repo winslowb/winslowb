@@ -30,10 +30,10 @@ ________________
 
 ## Experience
 
-University Of Chicago, April 2021 - present
+### University Of Chicago, April 2021 - present
 Director Of Platform Engineering - Center For Transactional Data Sciences
 
-### Gen3 is a custom-designed, FedRamp-certified SaaS platform that serves as a vital resource for scientists and researchers worldwide. 
+*Gen3 is a custom-designed, FedRamp-certified SaaS platform that serves as a vital resource for scientists and researchers worldwide.* 
 
 Spearhead the strategic planning and operational execution of the Gen3 cloud SaaS platform, ensuring robust DevOps, SecOps, and SRE practices to optimize service delivery and reliability.
 
@@ -44,7 +44,6 @@ Champion the adoption of modern engineering methodologies and leadership framewo
 Provide direct leadership to three cross-functional engineering teams, fostering a culture of continuous improvement and collaboration, with a focus on scalability and security in service deployment.
 
 Mentor and guide two dedicated managers who report directly to me, empowering them to achieve my operational objectives and advance their professional development
-
 ________________
 
 ### Cars.com, Chicago, April 2014 - March 2021
