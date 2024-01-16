@@ -1,5 +1,5 @@
 # Summary
-  I'm generally ok with this assessment. What it doesn't reflect, is my *awareness*  of needing to be *very self aware*. In other words I play nicely with everyone. 
+  I'm generally ok with this assessment. What it doesn't reflect, is my *awareness*  of needing to be *very self aware*.
 ___________________________________________________________________________________
 
   *William, one of the words that best describes people with your D style is driven. You probably prefer to have variety and forward momentum. Because of this, you may become bored or restless if forced to slow down for too long. Sitting still may be difficult for you. When you reach your goals, you may not always take time to celebrate. Instead, your attention tends to quickly shift to the next goal.*
