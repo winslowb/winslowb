@@ -27,7 +27,7 @@ I consider how I approach work as engagement. I will seek tasks -
 * That provides a path forward
 
 ### Alignment
-I seek alignment rather than consensus. Respectful descent is always welcome and I'm willing to let go and of my position and try something new. Once a group decision has been made, I back it 110%. Alignment in spite of differences is a good indicator of a healthy leadership team.
+I seek alignment rather than consensus. Respectful descent is always welcome and I'm willing to let go of my position and try something new. Once a group decision has been made, I back it 110%. Alignment in spite of differences is a good indicator of a healthy leadership team.
 
 ### My Job
 As a Leader, I'm measured by:
