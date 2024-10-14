@@ -47,7 +47,7 @@ My mandate is to provide air cover and equip engineers with the necessary tools 
 Here are some projects that showcase my work:
 - [Gen3 Cloud SaaS Platform](https://github.com/winslowb/gen3-cloud) - Led strategic planning and operations.
 - [AWS Cloud Migration](https://github.com/winslowb/aws-migration) - Directed migration efforts, improving efficiency and scalability.
-- [DevOps Principles](https://github.com/winslowb/DevOps-principles.md) - Document outlining the core principles I advocate.
+- [DevOps Principles](winslowb/DevOps-principles.md) - Document outlining the core principles I advocate.
 
 ## Contact
 
