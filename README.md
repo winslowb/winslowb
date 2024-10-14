@@ -13,7 +13,7 @@ Hello! I'm Bill Winslow, a passionate platform engineering leader with over 20 y
 
 ## Purpose
 
-This document outlines my psychological and operational frameworks. It's meant to foster better working relationships and provide clarity on how I approach my role. I believe that understanding each other's styles and expectations is key to effective collaboration.
+This document outlines my [psychological](disc.md) and operational frameworks. It's meant to foster better working relationships and provide clarity on how I approach my role. I believe that understanding each other's styles and expectations is key to effective collaboration.
 
 ## Communication
 
