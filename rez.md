@@ -1,6 +1,6 @@
 ﻿Bill Winslow
 Text: 312-617-1105
-william.winslow@gmail.com
+bill@ebwinslow.com
 
 ## Summary   
 I care about Engineers and their careers. 

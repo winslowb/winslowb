@@ -52,7 +52,7 @@ Here are some projects that showcase my work:
 ## Contact
 
 I'm always open to discussions and collaborations. Feel free to reach out:
-- Email: [william.winslow@gmail.com](mailto:william.winslow@gmail.com)
+- Email: [bill@ebwinslow.com](mailto:bill@ebwinslow.com)
 - LinkedIn: [Bill Winslow](https://www.linkedin.com/in/wwinslow)
 
 Thank you for taking the time to read this. I look forward to connecting and exploring ways we can work together.
