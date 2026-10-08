@@ -7,9 +7,10 @@ Hello! I'm Bill Winslow, a passionate platform engineering leader with over 20 y
 2. [Communication](#communication)
 3. [Engagement](#engagement)
 4. [Alignment](#alignment)
-5. [Leadership Philosophy](#leadership-philosophy)
-6. [Highlighted Projects](#highlighted-projects)
-7. [Contact](#contact)
+5. [Values and Principles](#values-and-principles)
+6. [Leadership Philosophy](#leadership-philosophy)
+7. [Highlighted Projects](#highlighted-projects)
+8. [Contact](#contact)
 
 ## Purpose
 
@@ -28,6 +29,29 @@ Autonomy is important to me. I support and guide as needed but encourage team me
 ## Alignment
 
 I seek alignment, not consensus. Respectful dissent is welcome, as it often leads to better outcomes. Once a decision is made, I fully support it. A healthy leadership team thrives on alignment despite differences.
+
+## Values and Principles
+
+The philosophy I lead with, in the short form:
+
+> **People First. Build the System, not the Machine. Strong opinions, weakly held.**
+
+> **The Platform shall be secure. simple. obvious. frictionless. tolerant. performant.**
+
+The full set, and the practices behind it:
+
+| Principle | What it means |
+|-----------|---------------|
+| **People First** | My primary mandate is to serve my team, including my peers and leadership, not the other way around. |
+| **Build the System, not the Machine** | Technology platforms are systems made of machines. A system is important, a machine is not. |
+| **Strong opinions, weakly held** | I love to challenge and understand issues from all sides. |
+| **Keep it Simple** | Everything as simple as possible, but not simpler. |
+| **Decentralize Command** | Empower autonomy and accountability. |
+| **Perception is Reality** | Behavior and results matter more than intentions. |
+| **Document** | Thoughts, events, and plans are best documented. |
+| **Embrace Constraints** | Constraints evoke creativity. |
+
+I believe DevOps is a practice, not a role, and that Platform Engineering is the discipline that carries the practices of DevOps, SRE, and SecOps. The tools aren't as important as what the tools are used for.
 
 ## Leadership Philosophy
 
